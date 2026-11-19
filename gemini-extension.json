@@ -1,0 +1,15 @@
+{
+  "name": "picsum-mcp",
+  "version": "1.0.0",
+  "description": "Search the Lorem Picsum CC0 catalog and build exact-size image URLs through the hosted MCP server.",
+  "mcpServers": {
+    "picsum": {
+      "url": "https://picsum.org/mcp",
+      "type": "http",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

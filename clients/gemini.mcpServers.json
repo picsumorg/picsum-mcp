@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "picsum": {
+      "url": "https://picsum.org/mcp",
+      "type": "http",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
